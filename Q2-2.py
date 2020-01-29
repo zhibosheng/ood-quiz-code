@@ -65,6 +65,6 @@ print("aunt's sibling is " + aunt.getSibling())
 print("mother's child is " + mother.getChild())
 print("aunt's child is " + aunt.getChild())
 print("you's cousion is " + you.getCousion())
-print("cousin's cousin is " + mother.getCousion())
+print("cousin's cousin is " + cousin.getCousion())
 
 
